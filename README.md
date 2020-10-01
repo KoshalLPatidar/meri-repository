@@ -22,3 +22,4 @@ ek baar fir aana pada yaar , pehle kuch problem aa gayi thi sorry bhaiyya
 TC for query on fenwick tree is O(logN)
  master
  master
+ ma k bsd
