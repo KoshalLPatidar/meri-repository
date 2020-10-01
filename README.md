@@ -11,3 +11,5 @@ Ab mene aur faltu changes kiye.
 last time add kar raha hu.
 master
 master
+
+TC for query on fenwick tree is O(logN)
